@@ -81,6 +81,11 @@ h1 {
   top: 2rem;
   left: 2rem;
 }
+.end{
+  position: inherit;
+  top: 15rem;
+  left:2rem;
+}
 
 .guess {
   background: none;
